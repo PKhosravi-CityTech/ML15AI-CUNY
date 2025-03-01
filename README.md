@@ -8,7 +8,7 @@
 
 ---
 
-## 📚 Course Overview  
+## Course Overview  
 
 📚 15-week curriculum for PhD & advanced ML learners
 
