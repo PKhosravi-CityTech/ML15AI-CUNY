@@ -55,6 +55,7 @@ Want to contribute? We welcome **bug fixes, notebook improvements, dataset sugge
 5. **Open a Pull Request**  
 
 💡 Ask questions, share ideas, and collaborate with other students. Have suggestions? 
+
 🔗 **[🗣Join the Discussion on GitHub](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/discussions)** 
 
 ---
