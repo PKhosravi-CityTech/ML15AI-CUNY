@@ -24,10 +24,12 @@
 ✅ **Ethics, Fairness, and Bias in AI**  
 
 ### 🔹 **What’s Included?**  
-📌 **Lecture materials** (theory, equations, and explanations)  
-📌 **Hands-on coding assignments** (Python, scikit-learn, PyTorch)  
-📌 **ML projects with real-world datasets**  
-📌 **Quizzes & final project for practical mastery**  
+📌 Lecture materials (theory, equations, and explanations)  
+📌 Hands-on coding assignments (Python, scikit-learn, PyTorch)  
+📌 ML projects with real-world datasets  
+📌 Quizzes & final project for practical mastery  
+📌 🎥 **YouTube video explanations** for concept visualization  
+
 
 ---
 
