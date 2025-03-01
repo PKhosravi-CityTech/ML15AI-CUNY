@@ -62,4 +62,13 @@
 ```bash
 git clone https://github.com/PKhosravi-CityTech/ML15AI-CUNY.git
 cd ML15AI-CUNY
+```
+### 2️⃣ Open in Google Colab (Recommended)
+To run the notebooks interactively without installation, open them in Google Colab:
+
+📌 Click the Colab badge inside each week's folder to open the corresponding notebooks.
+
+✅ Colab allows you to execute code without local setup.
+✅ You can read the theoretical explanations inside the Jupyter Notebooks.
+✅ For better visualization, watch the accompanying videos.
 
