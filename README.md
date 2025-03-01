@@ -2,7 +2,8 @@
 **A structured 15-week ML & AI course blending theory, coding, and real-world applications.**  
 📚 Developed by **BioMindAI Lab @ CUNY**  
 
-(![Machine Learning](https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png))
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) ![Machine Learning Icon](https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png)
+
 
 ---
 
