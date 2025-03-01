@@ -74,3 +74,12 @@ To run the notebooks interactively without installation, open them in Google Col
 
 ✅ For better visualization, watch the accompanying videos.
 
+## 🗣 Join the Discussion!  
+
+Have questions about Machine Learning? Want to share insights or help others?  
+Join the **ML15AI-CUNY Discussions** and be part of our learning community!  
+
+📢 **Ask questions, share ideas, and collaborate with other students.**  
+
+🔗 **[Join the Discussion on GitHub](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/discussions)**  
+
