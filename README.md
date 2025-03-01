@@ -24,28 +24,6 @@
 
 ---
 
-## 📅 15-Week Course Structure  
-
-| **Week** | **Topic** | **Key Concepts & Hands-On** |
-|---------|----------|---------------------------|
-| 🟠 **Week 01** | 🔥 Introduction to ML | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Supervised+vs.+Unsupervised%2C+Generative+vs.+Discriminative+Learning) |
-| 🟡 **Week 02** | 📊 Regression (Linear & Logistic) | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+regression+models%2C+Bias-Variance+Tradeoff) |
-| 🟢 **Week 03** | 🌲 Decision Trees & Ensemble Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Random+Forests%2C+Boosting+(XGBoost)) |
-| 🔵 **Week 04** | 🎯 SVMs & Kernel Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Understanding+hyperplane+margins%2C+Kernel+trick) |
-| 🟣 **Week 05** | 🔗 Clustering | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=K-Means%2C+Hierarchical+Clustering%2C+DBSCAN) |
-| 🔴 **Week 06** | ✂️ Dimensionality Reduction | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=PCA%2C+LDA%2C+t-SNE+for+visualization) |
-| ⚫ **Week 07** | 📌 Bayesian Learning & Frequentist Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Bayesian+inference%2C+probability+updates) |
-| ⚪ **Week 08** | 🧠 Neural Networks | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+Feedforward+Neural+Networks+with+PyTorch) |
-| 🏆 **Week 09** | 🖼️ Deep Learning (CNNs) | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Image+classification+using+CNNs) |
-| 🎙 **Week 10** | 📖 Transformers & NLP | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+BERT+%26+transformer+models+for+NLP) |
-| 🎮 **Week 11** | 🕹 Reinforcement Learning | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Q-Learning%2C+Policy+Gradients%2C+OpenAI+Gym) |
-| ⚖ **Week 12** | 🌍 Fairness & Ethics in AI | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Bias+detection%2C+Explainable+AI) |
-| 🧑‍🏫 **Week 13** | 🎓 VC Theory & Large Margin Classifiers | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Theoretical+ML+concepts) |
-| 🏁 **Week 14** | 🎤 Student Presentations | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Final+project+presentations) |
-| 🎯 **Week 15** | 📝 Final Exam & Course Wrap-Up | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Comprehensive+review) |
-
----
-
 ## 🛠 Installation & Setup  
 ### 1️⃣ **Clone the Repository**
 ```bash
@@ -71,4 +49,28 @@ Join the **ML15AI-CUNY Discussions** and be part of our learning community!
 📢 **Ask questions, share ideas, and collaborate with other students.**  
 
 🔗 **[Join the Discussion on GitHub](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/discussions)**  
+
+---
+
+## 📅 15-Week Course Structure  
+
+| **Week** | **Topic** | **Key Concepts & Hands-On** |
+|---------|----------|---------------------------|
+| 🟠 **Week 01** | 🔥 Introduction to ML | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Supervised+vs.+Unsupervised%2C+Generative+vs.+Discriminative+Learning) |
+| 🟡 **Week 02** | 📊 Regression (Linear & Logistic) | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+regression+models%2C+Bias-Variance+Tradeoff) |
+| 🟢 **Week 03** | 🌲 Decision Trees & Ensemble Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Random+Forests%2C+Boosting+(XGBoost)) |
+| 🔵 **Week 04** | 🎯 SVMs & Kernel Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Understanding+hyperplane+margins%2C+Kernel+trick) |
+| 🟣 **Week 05** | 🔗 Clustering | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=K-Means%2C+Hierarchical+Clustering%2C+DBSCAN) |
+| 🔴 **Week 06** | ✂️ Dimensionality Reduction | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=PCA%2C+LDA%2C+t-SNE+for+visualization) |
+| ⚫ **Week 07** | 📌 Bayesian Learning & Frequentist Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Bayesian+inference%2C+probability+updates) |
+| ⚪ **Week 08** | 🧠 Neural Networks | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+Feedforward+Neural+Networks+with+PyTorch) |
+| 🏆 **Week 09** | 🖼️ Deep Learning (CNNs) | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Image+classification+using+CNNs) |
+| 🎙 **Week 10** | 📖 Transformers & NLP | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+BERT+%26+transformer+models+for+NLP) |
+| 🎮 **Week 11** | 🕹 Reinforcement Learning | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Q-Learning%2C+Policy+Gradients%2C+OpenAI+Gym) |
+| ⚖ **Week 12** | 🌍 Fairness & Ethics in AI | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Bias+detection%2C+Explainable+AI) |
+| 🧑‍🏫 **Week 13** | 🎓 VC Theory & Large Margin Classifiers | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Theoretical+ML+concepts) |
+| 🏁 **Week 14** | 🎤 Student Presentations | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Final+project+presentations) |
+| 🎯 **Week 15** | 📝 Final Exam & Course Wrap-Up | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Comprehensive+review) |
+
+---
 
