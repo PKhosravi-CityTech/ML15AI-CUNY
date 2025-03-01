@@ -15,7 +15,7 @@ In this session, we will cover:
 ## 📂 Open in Google Colab  
 Click the button below to run the notebook interactively in **Google Colab**:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week2/Week2_CS74020.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week2/Week2.ipynb)  
 
 ✅ **Colab allows you to execute code without local setup.**  
 ✅ **The dataset used for this session is included in the repo (`RealEstateData.csv`).**  
