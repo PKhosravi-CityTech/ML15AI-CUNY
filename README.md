@@ -50,15 +50,20 @@ To run the notebooks interactively without installation, open them in Google Col
 🔴 **Hands-on Learning** – Python, PyTorch, Jupyter, & **real-world datasets**  
 ⚪ **Interactive Community** – Discuss ML concepts, share insights & collaborate  
 
+---
 
-## 🗣 Join the Discussion!  
+## 🤝 How to Contribute
 
-Have questions about Machine Learning? Want to share insights or help others?  
-Join the **ML15AI-CUNY Discussions** and be part of our learning community!  
+Want to contribute? We welcome **bug fixes, notebook improvements, dataset suggestions, and discussions**!
 
-📢 **Ask questions, share ideas, and collaborate with other students.**  
+### 📝 Steps to Contribute:
+1. **Fork** this repository  
+2. **Create a new branch** (`git checkout -b feature-branch`)  
+3. **Make your changes** (improve notebooks, update README, etc.)  
+4. **Commit and push** (`git push origin feature-branch`)  
+5. **Open a Pull Request**  
 
-🔗 **[Join the Discussion on GitHub](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/discussions)**  
+💡 Ask questions, share ideas, and collaborate with other students. Have suggestions? 🔗 **[🗣Join the Discussion on GitHub](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/discussions)** 
 
 ---
 
@@ -87,17 +92,5 @@ Join the **ML15AI-CUNY Discussions** and be part of our learning community!
 
 ---
 
-## 🤝 How to Contribute
-
-Want to contribute? We welcome **bug fixes, notebook improvements, dataset suggestions, and discussions**!
-
-### 📝 Steps to Contribute:
-1. **Fork** this repository  
-2. **Create a new branch** (`git checkout -b feature-branch`)  
-3. **Make your changes** (improve notebooks, update README, etc.)  
-4. **Commit and push** (`git push origin feature-branch`)  
-5. **Open a Pull Request**  
-
-💡 Have suggestions? 🔗 **[Join the Discussion on GitHub](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/discussions)** 
 
 
