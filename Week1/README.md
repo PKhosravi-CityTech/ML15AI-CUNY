@@ -17,10 +17,8 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 ---
 
-## 🎥 Video Lecture  
+## 🎥 Additional Learning Resources 
 Click the image below to **watch the YouTube lecture for Week 1**:  
-
-## 📚 Additional Learning Resources  
 
 ### 🚀 **Google Colab Tutorial**  
 We will be using **Google Colab** for coding exercises. This tutorial will help you get started:  
