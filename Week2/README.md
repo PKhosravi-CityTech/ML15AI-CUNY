@@ -15,10 +15,24 @@ In this session, we will cover:
 ## 📂 Open in Google Colab  
 Click the button below to run the notebook interactively in **Google Colab**:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week2/Week2.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week2/Week2.ipynb)  
 
 ✅ **Colab allows you to execute code without local setup.**  
-✅ **The dataset used for this session is included in the repo (`RealEstateData.csv`).**  
+✅ **The dataset used for this session is available below.**  
+
+---
+
+## 📊 Dataset: Real Estate Valuation Data Set  
+For hands-on exercises, we will use **RealEstateData.csv**, sourced from the **UCI Machine Learning Repository**.  
+
+📌 **[View or Download RealEstateData.csv](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week2/RealEstateData.csv)**  
+
+🔗 **Original Dataset Source:** [Real Estate Valuation Data Set - UCI Repository](https://archive.ics.uci.edu/dataset/477/real+estate+valuation+data+set)  
+
+💡 **This dataset includes:**  
+- Housing features (square footage, number of rooms, etc.)  
+- Pricing information  
+- Variables useful for regression analysis  
 
 ---
 
@@ -50,9 +64,9 @@ Click the links below to **watch the YouTube lectures for Week 2**:
 ---
 
 ## ✅ Next Steps  
-📌 **Complete the hands-on exercises in the notebook (`Week2_CS74020.ipynb`).**  
-📌 **Experiment with different datasets** to see how regression models perform.  
+📌 **Complete the hands-on exercises in the notebook (`Week2.ipynb`).**  
+📌 **Use the dataset (`RealEstateData.csv`) to build and evaluate regression models.**  
+📌 **Experiment with different regression techniques for better understanding.**  
 📌 **Join discussions in the ML15AI-CUNY repo** to ask questions and collaborate with peers.  
 
 🚀 **Happy Learning!** 😊🔥  
-
