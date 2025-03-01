@@ -9,16 +9,9 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00C853&width=900&lines=ML+%26+AI+course+blending+theory%2C+coding%2C+and+real-world+applications.)
 
-
-
+---
 
 ## 📚 Course Overview  
-**ML15AI-CUNY** is a **15-week structured learning track** designed for:  
-✔ **PhD students, AI researchers, and ML practitioners**  
-✔ **Industry professionals seeking a deep, hands-on ML course**  
-✔ **Academics who want a rigorous ML foundation**  
-
-### **🎓 What’s Inside?**
 
 📚 15-week curriculum for PhD & advanced ML learners
 
