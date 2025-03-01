@@ -1,9 +1,11 @@
 # 📌 Week 1: Introduction to Machine Learning  
 
 ## 🎯 Learning Objectives  
-✅ Understand Supervised vs. Unsupervised Learning  
-✅ Learn about Generative vs. Discriminative Models  
-✅ Explore real-world applications of Machine Learning  
+In this session, we will cover:  
+✅ The three main types of ML: **Supervised, Unsupervised, and Semi-supervised Learning**.  
+✅ **Generative vs. Discriminative models** and their differences.  
+✅ The **basic workflow of ML projects**, from data collection to model evaluation.  
+✅ **Hands-on:** Loading and exploring a dataset using Python.  
 
 ---
 
@@ -36,4 +38,13 @@ If you need a refresher, watch this video to review the essential Python concept
 Please watch this video if you're not confident in Python.  
 This will help you focus on ML concepts rather than basic coding:  
 📌 **[Watch the Python Full Course](https://youtu.be/_uQrJ0TkZlc?si=ZE3GPzuK3-JYFLsp)**  
+
+---
+
+## ✅ Next Steps  
+📌 **Complete the hands-on exercise in the notebook**  
+📌 **Experiment with different datasets** for better understanding  
+📌 **Join discussions in the ML15AI-CUNY repo**  
+
+🚀 **Happy Learning!** 😊🔥  
 
