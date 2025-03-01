@@ -69,6 +69,8 @@ To run the notebooks interactively without installation, open them in Google Col
 📌 Click the Colab badge inside each week's folder to open the corresponding notebooks.
 
 ✅ Colab allows you to execute code without local setup.
+
 ✅ You can read the theoretical explanations inside the Jupyter Notebooks.
+
 ✅ For better visualization, watch the accompanying videos.
 
