@@ -39,15 +39,7 @@ To run the notebooks interactively without installation, open them in Google Col
 
 🟢 You can read the theoretical explanations inside the Jupyter Notebooks.
 
-🔵 For better visualization, watch the accompanying videos.
-
----
-
-## Why Take This Course?
-
-🟣 **Structured ML Curriculum** – From **Linear Regression** to **Deep Learning & Transformers**  
-🔴 **Hands-on Learning** – Python, PyTorch, Jupyter, & **real-world datasets**  
-⚪ **Interactive Community** – Discuss ML concepts, share insights & collaborate  
+🟣 For better visualization, watch the accompanying videos.
 
 ---
 
