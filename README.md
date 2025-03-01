@@ -7,7 +7,10 @@
 
 ---
 
-**A structured 15-week ML & AI course blending theory, coding, and real-world applications.** 
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00C853&width=900&lines=ML+%26+AI+course+blending+theory%2C+coding%2C+and+real-world+applications.)
+
+
+
 
 ## 📚 Course Overview  
 **ML15AI-CUNY** is a **15-week structured learning track** designed for:  
@@ -36,23 +39,21 @@
 
 | **Week** | **Topic** | **Key Concepts & Hands-On** |
 |---------|----------|---------------------------|
-| **Week 01** | Introduction to ML | Supervised vs. Unsupervised, Generative vs. Discriminative Learning |
-| **Week 02** | Regression (Linear & Logistic) | Implementing regression models, Bias-Variance Tradeoff |
-| **Week 03** | Decision Trees & Ensemble Methods | Random Forests, Boosting (XGBoost) |
-| **Week 04** | SVMs & Kernel Methods | Understanding hyperplane margins, Kernel trick |
-| **Week 05** | Clustering | K-Means, Hierarchical Clustering, DBSCAN |
-| **Week 06** | Dimensionality Reduction | PCA, LDA, t-SNE for visualization |
-| **Week 07** | Bayesian Learning & Frequentist Methods | Bayesian inference, probability updates |
-| **Week 08** | Neural Networks | Implementing Feedforward Neural Networks with PyTorch |
-| **Week 09** | Deep Learning (CNNs) | Image classification using CNNs |
-| **Week 10** | Transformers & NLP | Implementing BERT & transformer models for NLP |
-| **Week 11** | Reinforcement Learning | Q-Learning, Policy Gradients, OpenAI Gym |
-| **Week 12** | Fairness & Ethics in AI | Bias detection, Explainable AI |
-| **Week 13** | VC Theory & Large Margin Classifiers | Theoretical ML concepts |
-| **Week 14** | Student Presentations | Final project presentations |
-| **Week 15** | Final Exam & Course Wrap-Up | Comprehensive review |
-
-🔹 **Full course breakdown available in the repo.**  
+| 🟠 **Week 01** | 🔥 Introduction to ML | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Supervised+vs.+Unsupervised%2C+Generative+vs.+Discriminative+Learning) |
+| 🟡 **Week 02** | 📊 Regression (Linear & Logistic) | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+regression+models%2C+Bias-Variance+Tradeoff) |
+| 🟢 **Week 03** | 🌲 Decision Trees & Ensemble Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Random+Forests%2C+Boosting+(XGBoost)) |
+| 🔵 **Week 04** | 🎯 SVMs & Kernel Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Understanding+hyperplane+margins%2C+Kernel+trick) |
+| 🟣 **Week 05** | 🔗 Clustering | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=K-Means%2C+Hierarchical+Clustering%2C+DBSCAN) |
+| 🔴 **Week 06** | ✂️ Dimensionality Reduction | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=PCA%2C+LDA%2C+t-SNE+for+visualization) |
+| ⚫ **Week 07** | 📌 Bayesian Learning & Frequentist Methods | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Bayesian+inference%2C+probability+updates) |
+| ⚪ **Week 08** | 🧠 Neural Networks | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+Feedforward+Neural+Networks+with+PyTorch) |
+| 🏆 **Week 09** | 🖼️ Deep Learning (CNNs) | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Image+classification+using+CNNs) |
+| 🎙 **Week 10** | 📖 Transformers & NLP | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Implementing+BERT+%26+transformer+models+for+NLP) |
+| 🎮 **Week 11** | 🕹 Reinforcement Learning | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Q-Learning%2C+Policy+Gradients%2C+OpenAI+Gym) |
+| ⚖ **Week 12** | 🌍 Fairness & Ethics in AI | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Bias+detection%2C+Explainable+AI) |
+| 🧑‍🏫 **Week 13** | 🎓 VC Theory & Large Margin Classifiers | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Theoretical+ML+concepts) |
+| 🏁 **Week 14** | 🎤 Student Presentations | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Final+project+presentations) |
+| 🎯 **Week 15** | 📝 Final Exam & Course Wrap-Up | ![Typing](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&color=F75C03&width=450&lines=Comprehensive+review) |
 
 ---
 
