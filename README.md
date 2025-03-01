@@ -2,7 +2,6 @@
 
 
 ![ML15AI-CUNY](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=700&lines=ML15AI-CUNY%3A+Master+Machine+Learning+%26+AI+in+15+Weeks!)
- 
 
 💻 Developed by **[BioMindAI Lab @ CUNY](https://sites.google.com/view/biomind-ai-lab)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="Machine Learning Icon" width="40"/>
 
