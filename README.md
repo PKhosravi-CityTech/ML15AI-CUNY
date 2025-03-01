@@ -46,9 +46,9 @@ To run the notebooks interactively without installation, open them in Google Col
 
 ## Why Take This Course?
 
-✔ **Structured ML Curriculum** – From **Linear Regression** to **Deep Learning & Transformers**  
-✔ **Hands-on Learning** – Python, PyTorch, Jupyter, & **real-world datasets**  
-✔ **Interactive Community** – Discuss ML concepts, share insights & collaborate  
+🟣 **Structured ML Curriculum** – From **Linear Regression** to **Deep Learning & Transformers**  
+🔴 **Hands-on Learning** – Python, PyTorch, Jupyter, & **real-world datasets**  
+⚪ **Interactive Community** – Discuss ML concepts, share insights & collaborate  
 
 
 ## 🗣 Join the Discussion!  
