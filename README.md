@@ -1,4 +1,4 @@
-# 🚀 ML15AI-CUNY: Master Machine Learning & AI in 15 Weeks  
+## 🚀 ML15AI-CUNY: Master Machine Learning & AI in 15 Weeks  
 **A structured 15-week ML & AI course blending theory, coding, and real-world applications.**  
 📚 Developed by **BioMindAI Lab @ CUNY**  
 
