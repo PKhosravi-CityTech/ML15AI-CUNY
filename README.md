@@ -1,11 +1,8 @@
 ![ML15AI-CUNY](https://img.shields.io/badge/ML15AI--CUNY-Master%20Machine%20Learning%20%26%20AI%20in%2015%20Weeks-orange?style=for-the-badge&logo=python)
 
-
 ![ML15AI-CUNY](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=F7A41D&width=700&lines=ML15AI-CUNY%3A+Master+Machine+Learning+%26+AI+in+15+Weeks!)
 
 💻 Developed by **[BioMindAI Lab @ CUNY](https://sites.google.com/view/biomind-ai-lab)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="Machine Learning Icon" width="40"/>
-
----
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00C853&width=900&lines=ML+%26+AI+course+blending+theory%2C+coding%2C+and+real-world+applications.)
 
@@ -24,7 +21,6 @@
 🎥 Concept explanations + Video resources
 
 📌 Active discussions for collaborative learning
-
 
 ---
 
