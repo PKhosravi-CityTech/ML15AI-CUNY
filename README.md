@@ -1,30 +1,30 @@
-## 💻 ML15AI-CUNY: Master Machine Learning & AI in 15 Weeks
+## ML15AI-CUNY: Master Machine Learning & AI in 15 Weeks
 
 **A structured 15-week ML & AI course blending theory, coding, and real-world applications.**  
 
-📚 Developed by **[BioMindAI Lab @ CUNY](https://sites.google.com/view/biomind-ai-lab)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="Machine Learning Icon" width="40"/>
+💻 Developed by **[BioMindAI Lab @ CUNY](https://sites.google.com/view/biomind-ai-lab)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="Machine Learning Icon" width="40"/>
 
 ---
 
-## 🎯 Course Overview  
+## 📚 Course Overview  
 **ML15AI-CUNY** is a **15-week structured learning track** designed for:  
 ✔ **PhD students, AI researchers, and ML practitioners**  
 ✔ **Industry professionals seeking a deep, hands-on ML course**  
 ✔ **Academics who want a rigorous ML foundation**  
 
-### 🔹 **What You’ll Learn**  
-✅ **Supervised & Unsupervised Learning**  
-✅ **Regression, Decision Trees, & SVMs**  
-✅ **Deep Learning: CNNs, Transformers, and Reinforcement Learning**  
-✅ **Mathematical Foundations + Real-World Projects**  
-✅ **Ethics, Fairness, and Bias in AI**  
+### **🎓 What’s Inside?**
 
-### 🔹 **What’s Included?**  
-📌 Lecture materials (theory, equations, and explanations)  
-📌 Hands-on coding assignments (Python, scikit-learn, PyTorch)  
-📌 ML projects with real-world datasets  
-📌 Quizzes & final project for practical mastery  
-📌 🎥 **YouTube video explanations** for concept visualization  
+📚 15-week curriculum for PhD & advanced ML learners
+
+🛠️ Hands-on coding (Python, scikit-learn, PyTorch)
+
+💻 Jupyter Notebooks + Google Colab support
+
+📊 Real-world datasets (UCI ML, TCIA, Kaggle)
+
+🎥 Concept explanations + Video resources
+
+📌 Active discussions for collaborative learning
 
 
 ---
