@@ -21,13 +21,6 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 ---
 
-## 📊 Dataset: Classification Dataset  
-For hands-on exercises, we will use datasets that help illustrate decision trees and ensemble learning. The dataset will be loaded directly within the notebook.  
-
-📌 **[View Week 3 Notebook](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week3/Week3.ipynb)**  
-
----
-
 ## 🎥 Additional Learning Resources  
 
 Click the links below to **watch the YouTube lectures for Week 3**:  
