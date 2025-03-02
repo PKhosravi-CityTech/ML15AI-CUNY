@@ -13,12 +13,19 @@
 ## Course Overview  
 
 📚 Comprehensive 15-week curriculum designed for aspiring ML practitioners
+
 🛠️ Hands-on coding with Python, scikit-learn, PyTorch, and TensorFlow
+
 💻 Jupyter Notebooks + Google Colab support for seamless experimentation
+
 📊 Real-world datasets (UCI ML, TCIA, Kaggle) to bridge theory and practice
+
 🎥 Curated video resources—handpicked free content to visually explain key concepts (not my own recordings, but complementary to the course)
+
 📌 Engaging explanations & interactive coding—text sections written based on core ML concepts and real student questions to reinforce understanding before coding
+
 🤝 Collaborative discussions & knowledge-sharing
+
 ---
 
 ## 🛠 Installation & Setup  
