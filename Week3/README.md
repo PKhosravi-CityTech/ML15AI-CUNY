@@ -27,16 +27,14 @@ Click the links below to **watch the YouTube lectures for Week 3**:
 
 ### 🔹 **Decision Trees: Theory and Implementation**  
 📌 **[Watch: Decision and Classification Trees](https://youtu.be/_L39rN6gz7Y?si=FqYTTprD23Z4kiMx)**  
+📌 **[Watch: Visual Guide to Decision Trees](https://youtu.be/zs6yHVtxyv8?si=Z7zGVMB1evGDVvZk)** 
 
 ### 🔹 **Random Forests: Ensemble Learning**  
-📌 **[Watch: Visual Guide to Random Forests](https://youtu.be/zs6yHVtxyv8?si=Z7zGVMB1evGDVvZk)**  
+📌 **[Watch: Visual Guide to Random Forests](https://youtu.be/cIbj0WuK41w?si=gyNdD6MtvpZW0h7t)**  
 
 ### 🔹 **Boosting: AdaBoost and XGBoost**  
-📌 **[Watch: Visual Guide to Gradient Boosted Trees (XGBoost)](https://youtu.be/cIbj0WuK41w?si=gyNdD6MtvpZW0h7t)**  
-📌 **[Watch: Boosting Explained](https://youtu.be/TyvYZ26alZs?si=-X6Be2Xf86Lp-uqG)**  
-
-### 🔹 **Bagging vs. Boosting**  
-📌 **[Watch: Bagging vs Boosting - Key Differences](https://youtu.be/GM3CDQfQ4sw?si=DPSxOZeUphK-bkFM)**  
+📌 **[Watch: Visual Guide to Gradient Boosted Trees (XGBoost)](https://youtu.be/TyvYZ26alZs?si=-X6Be2Xf86Lp-uqG)**  
+📌 **[Watch: Boosting Explained](https://youtu.be/GM3CDQfQ4sw?si=DPSxOZeUphK-bkFM)**   
 📌 **[Watch: Understanding Bagging and Boosting](https://youtu.be/tjy0yL1rRRU?si=hoXgppflPeoNZq-0)**  
 
 ---
