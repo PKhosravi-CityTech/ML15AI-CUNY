@@ -6,7 +6,7 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00C8A3&width=900&lines=ML+course+blending+theory%2C+coding%2C+and+real-world+applications.)
 
-💻 Developed by **[BioMindAI Lab @ CUNY](https://sites.google.com/view/biomind-ai-lab)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="Machine Learning Icon" width="50"/>
+💻 Developed by **[BioMind AI Lab @ CUNY](https://sites.google.com/view/biomind-ai-lab)** <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Dall-e_3_%28jan_%2724%29_artificial_intelligence_icon.png" alt="Machine Learning Icon" width="50"/>
 
 ---
 
