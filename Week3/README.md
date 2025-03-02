@@ -31,6 +31,7 @@ Click the links below to **watch the YouTube lectures for Week 3**:
 
 ### 🔹 **Random Forests: Ensemble Learning**  
 📌 **[Watch: Visual Guide to Random Forests](https://youtu.be/cIbj0WuK41w?si=gyNdD6MtvpZW0h7t)**  
+📌 **[Watch: Ensemble Learning](https://youtu.be/eLt4a8-316E?si=FjjfK2IitNlRKB_5)**  
 
 ### 🔹 **Boosting: AdaBoost and XGBoost**  
 📌 **[Watch: Visual Guide to Gradient Boosted Trees (XGBoost)](https://youtu.be/TyvYZ26alZs?si=-X6Be2Xf86Lp-uqG)**  
