@@ -22,7 +22,7 @@
 
 🎥 Curated video resources—handpicked free content to visually explain key concepts (not my own recordings, but complementary to the course)
 
-📌 Engaging explanations & interactive coding—text sections written based on core ML concepts and real student questions to reinforce understanding before coding
+✨ Engaging explanations & interactive coding—text sections written based on core ML concepts and real student questions to reinforce understanding before coding
 
 🤝 Collaborative discussions & knowledge-sharing
 
