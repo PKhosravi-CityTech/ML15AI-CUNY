@@ -40,19 +40,19 @@ For hands-on exercises, we will use the **UCI Heart Disease Dataset**, sourced f
 Click the links below to **watch the YouTube lectures for Week 4**:  
 
 ### 🔹 **Support Vector Machine (SVM)**  
-📌 **[Watch: Support Vector Machine (SVM) - Introduction](https://youtu.be/_YPScrckx28?si=HzmI56iDZ6LrCAfd)**  
+📌 **[Watch: Support Vector Machine (SVM) - Introduction](https://youtu.be/_YPScrckx28?si=PkDf0GY7IubtXVyQ)**  
 
 ### 🔹 **Hard Margin vs Soft Margin**  
-📌 **[Watch: Optimal Hyperplane and Hard Margin vs Soft Margin](https://youtu.be/ny1iZ5A8ilA?si=XD3A0YPbfj0cwrMA)**  
+📌 **[Watch: Optimal Hyperplane and Hard Margin vs Soft Margin](https://youtu.be/ny1iZ5A8ilA?si=jjc8kS0Mbhyv5t8x)**  
 
 ### 🔹 **The Kernel Trick in SVM**  
-📌 **[Watch: The Kernel Trick in SVM](https://youtu.be/DTcfH5W6o08?si=ijgEATzc1N1jdn2u)**  
+📌 **[Watch: The Kernel Trick in SVM](https://youtu.be/Q7vT0--5VII?si=EvrV1dH0ANmWnQta)**  
 
 ### 🔹 **Hyperparameter Tuning**  
-📌 **[Watch: Hyperparameter Tuning](https://youtu.be/fSytzGwwBVw?si=hB2datIP9OTc3vw6)**  
+📌 **[Watch: Hyperparameter Tuning](https://youtu.be/DTcfH5W6o08?si=-_6slA2jVMopJuoI)**  
 
 ### 🔹 **Cross-Validation**  
-📌 **[Watch: Cross-Validation](https://youtu.be/fSytzGwwBVw?si=hB2datIP9OTc3vw6)**  
+📌 **[Watch: Cross-Validation](https://youtu.be/fSytzGwwBVw?si=5haCfSAzXkMf-oIl)**  
 
 ---  
 
