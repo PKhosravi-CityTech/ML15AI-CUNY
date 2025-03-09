@@ -25,9 +25,10 @@ Click the button below to run the notebook interactively in **Google Colab**:
 ## 📊 Dataset: UCI Heart Disease Dataset  
 For hands-on exercises, we will use the **UCI Heart Disease Dataset**, sourced from the **UCI Machine Learning Repository**.  
 
-📌 **[View or Download RealEstateData.csv](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week4/processed.cleveland.data)** 
+📌 **[View or Download processed.cleveland.data](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week4/processed.cleveland.data)** 
 
 📌 **[View Original Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)**  
+🔗 **Original Dataset Source:** [Heart Disease Dataset - UCI Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)  
 
 💡 **This dataset includes:**  
 - Patient attributes (age, sex, cholesterol levels, etc.)  
