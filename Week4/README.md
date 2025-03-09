@@ -27,7 +27,6 @@ For hands-on exercises, we will use the **UCI Heart Disease Dataset**, sourced f
 
 📌 **[View or Download processed.cleveland.data](https://github.com/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week4/processed.cleveland.data)** 
 
-📌 **[View Original Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)**  
 🔗 **Original Dataset Source:** [Heart Disease Dataset - UCI Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)  
 
 💡 **This dataset includes:**  
