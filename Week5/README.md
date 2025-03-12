@@ -39,7 +39,7 @@ Click the links below to **watch the YouTube lectures for Week 5**:
 📌 **[Watch: Agglomerative and Divisive Methods](https://youtu.be/ijUMKMC4f9I?si=7Uaa7E2kLqmlpPKP)**  
 
 ### 🔹 DBSCAN Clustering  
-📌 **[Watch: Density-Based Clustering & Outlier Detection](https://youtu.be/RDZUdRSDOok?si=-qagAjelrBkSLqey)**  
+📌 **[Watch: Density-Based Clustering](https://youtu.be/RDZUdRSDOok?si=-qagAjelrBkSLqey)**  
 
 ---  
 
