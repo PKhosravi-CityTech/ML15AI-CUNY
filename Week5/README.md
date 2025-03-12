@@ -32,11 +32,11 @@ Click the links below to **watch the YouTube lectures for Week 5**:
 ### 🔹 K-Means Clustering  
 📌 **[Watch: K-Means Explained](https://youtu.be/4b5d3muPQmA?si=74FOV9jVqLgb4A6K)**  
 
-### 🔹 Agglomerative (Bottom-Up) vs. Divisive (Top-Down) 
+### 🔹 Hierarchical Clustering  
 📌 **[Watch: Agglomerative & Divisive Methods](https://youtu.be/8QCBl-xdeZI?si=Rdhmjo--xUagAWgV)**  
 
-### 🔹 Hierarchical Clustering  
-📌 **[Watch: Hierarchical Clustering Methods](https://youtu.be/ijUMKMC4f9I?si=7Uaa7E2kLqmlpPKP)**  
+### 🔹 Agglomerative (Bottom-Up) vs. Divisive (Top-Down) 
+📌 **[Watch: Agglomerative and Divisive Clustering](https://youtu.be/ijUMKMC4f9I?si=7Uaa7E2kLqmlpPKP)**  
 
 ### 🔹 DBSCAN Clustering  
 📌 **[Watch: Density-Based Clustering & Outlier Detection](https://youtu.be/RDZUdRSDOok?si=-qagAjelrBkSLqey)**  
