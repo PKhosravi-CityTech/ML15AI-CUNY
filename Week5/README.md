@@ -23,17 +23,6 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 ---  
 
-## 📊 Clustering in Action  
-For hands-on exercises, we will work with real-world datasets and apply different clustering techniques to **uncover hidden patterns in data**.  
-
-💡 **Key Use Cases of Clustering:**  
-- **Customer Segmentation** – Grouping users based on behavior.  
-- **Anomaly Detection** – Identifying fraud and rare events.  
-- **Medical Research** – Finding patient subgroups based on symptoms.  
-- **Image Segmentation** – Separating objects in an image.  
-
----  
-
 ## 🎥 Additional Learning Resources  
 Click the links below to **watch the YouTube lectures for Week 5**:  
 
