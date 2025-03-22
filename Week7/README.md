@@ -55,4 +55,4 @@ Click the links below to **watch the YouTube lectures for Week 7**:
 📌 **Compare predictions from BNNs and ANNs and reflect on uncertainty in your results.**  
 📌 **Share insights and challenges in the ML15AI-CUNY repo discussions.**  
 
-🚀 **Keep pushing your ML journey forward!** 😊🔍📈
+🚀 **Happy Learning!** 😊🔥
