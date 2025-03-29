@@ -69,21 +69,21 @@ Want to contribute? We welcome **bug fixes, notebook improvements, dataset sugge
 
 | **Week** | **Topic** | **Key Concepts & Hands-On** |
 |---------|----------|---------------------------|
-| 🟠 **Week 01** | 🔥 Introduction to ML | Supervised vs. Unsupervised, Generative vs. Discriminative Learning |
-| 🟡 **Week 02** | 📊 Regression (Linear & Logistic) | Implementing regression models, Bias-Variance Tradeoff |
-| 🟢 **Week 03** | 🌲 Decision Trees & Ensemble Methods | Random Forests, Boosting (XGBoost) |
-| 🔵 **Week 04** | 🎯 SVMs & Kernel Methods | Understanding hyperplane margins, Kernel trick |
-| 🟣 **Week 05** | 🔗 Clustering | K-Means, Hierarchical Clustering, DBSCAN |
-| 🔴 **Week 06** | ✂️ Dimensionality Reduction | PCA, LDA, t-SNE for visualization |
-| ⚫ **Week 07** | 📌 Bayesian Learning & Frequentist Methods | Bayesian inference, probability updates |
-| ⚪ **Week 08** | 🧠 Neural Networks | Implementing Feedforward Neural Networks with PyTorch |
-| 🏆 **Week 09** | 🖼️ Deep Learning (CNNs) | Image classification using CNNs |
-| 🎙 **Week 10** | 📖 Transformers & NLP | Implementing BERT & transformer models for NLP |
-| 🎮 **Week 11** | 🕹 Reinforcement Learning | Q-Learning, Policy Gradients, OpenAI Gym |
-| ⚖ **Week 12** | 🌍 Fairness & Ethics in AI | Bias detection, Explainable AI |
-| 🧑‍🏫 **Week 13** | 🎓 VC Theory & Large Margin Classifiers | Theoretical ML concepts |
-| 🏁 **Week 14** | 🎤 Student Presentations | Final project presentations |
-| 🎯 **Week 15** | 📝 Final Exam & Course Wrap-Up | Comprehensive review |
+| 🟠 **Week 01** | 🔥 Introduction to ML & AI | Types of ML (Supervised, Unsupervised, RL), AI vs. ML, Learning Paradigms |
+| 🟡 **Week 02** | 📊 Regression Techniques | Linear & Logistic Regression, Loss Functions, Bias-Variance Tradeoff |
+| 🟢 **Week 03** | 🌲 Decision Trees & Ensemble Methods | CART, Random Forests, Gradient Boosting (XGBoost, LightGBM) |
+| 🔵 **Week 04** | 🎯 SVMs & Kernel Methods | Large Margin Classifiers, Soft/Hard Margins, Kernel Trick |
+| 🟣 **Week 05** | 🔗 Clustering & Unsupervised Learning | K-Means, Hierarchical Clustering, DBSCAN, Silhouette Score |
+| 🔴 **Week 06** | ✂️ Dimensionality Reduction & Visualization | PCA, LDA, t-SNE, UMAP, Feature Selection vs. Extraction |
+| ⚫ **Week 07** | 📌 Probabilistic & Bayesian Learning | Naive Bayes, Gaussian Mixture Models, Bayesian Inference |
+| ⚪ **Week 08** | 🧠 Neural Networks Foundations | Perceptron, Feedforward Networks, Backpropagation, PyTorch Implementation |
+| 🏆 **Week 09** | 🖼️ Deep Learning for Vision (CNNs) | Convolutions, Pooling, Architectures (LeNet, ResNet), Transfer Learning |
+| 🎙 **Week 10** | 📖 NLP Fundamentals & Attention | Word Embeddings (Word2Vec, GloVe), RNNs, Seq2Seq, Basic Attention Mechanism |
+| 🤖 **Week 11** | 🚀 Transformers & Large Language Models (LLMs) | Self-Attention, BERT, GPT, Fine-tuning, Prompt Engineering |
+| 🎮 **Week 12** | 🕹 Reinforcement Learning | Markov Decision Processes, Q-Learning, Policy Gradients, OpenAI Gym |
+| 🌐 **Week 13** | 🔍 Explainable AI & Ethics | SHAP, LIME, Grad-CAM, Model Bias, Fairness, Accountability, AI Policy |
+| 🧠 **Week 14** | 🤝 Multimodal & Foundation Models | CLIP, DALL·E, Multimodal Transformers, Cross-modal Representations |
+| 🎓 **Week 15** | 📚 Research Trends & Capstone Projects | Student Presentations, Recent Advances (AutoML, Federated Learning, Causal Inference, Continual Learning) |
 
 </details>
 
