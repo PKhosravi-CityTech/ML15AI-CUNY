@@ -12,7 +12,7 @@ In this session, we will cover:
 ## 📂 Open in Google Colab  
 Click the button below to run the notebook interactively in **Google Colab**:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week01/Week01.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week01/Week1.ipynb)
 
 
 ---
