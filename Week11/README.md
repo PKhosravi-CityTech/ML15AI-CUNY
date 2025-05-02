@@ -33,29 +33,37 @@ Click the links below to **watch the YouTube lectures for Week 11**:
 ### 🔹 Transformer Architecture & Attention
 
 📌 **[Watch: Transformer Neural Networks](https://youtu.be/zxQyTK8quyY?si=cvKJPARvXJgYyswj)**
+
 📌 **[Watch: Attention Mechanism Works in Transformer](https://youtu.be/KMHkbXzHn7s?si=V_-UD3Bkwcnybbp6)**
+
 📌 **[Watch: Attention in Transformers](https://youtu.be/eMlx5fFNoYc?si=b1opiUlE2E7WPteT)**
 
 ### 🔹 Large Language Models (LLMs)
 
 📌 **[Watch: Transformers (How LLMs Work)](https://youtu.be/wjZofJX0v4M?si=4EdXFEqLRdJclfuz)**
+
 📌 **[Watch: How Might LLMs Store Facts](https://youtu.be/9-Jl0dxWQs8?si=Ru8VQ-0ASxmJ6NKx)**
 
 ### 🔹 BERT & GPT
 
 📌 **[Watch: BERT Neural Network](https://youtu.be/xI0HHN5XKDo?si=AfjBD8brytPRcaUH)**
+
 📌 **[Watch: GPT - Explained](https://youtu.be/3IweGfgytgY?si=G8Xo9tvpivhTQlIb)**
 
 ### 🔹 Prompt Engineering & Applications
 
 📌 **[Watch: Prompt Engineering](https://youtu.be/1c9iyoVIwDs?si=-PNdqsAosxsH0Cy7)**
+
 📌 **[Watch: Microsoft Copilot Tutorial](https://youtu.be/lGwjvaAFjzk?si=GRvDQgg0wUYAtn8T)**
 
 ### 🔹 Bonus: Vision Transformers & Object Detection
 
 📌 **[Watch: Vision Transformer](https://youtu.be/j3VNqtJUoz0?si=15a9xlMooXEiSw_W)**
+
 📌 **[Watch: SegFormer](https://youtu.be/cgq2d_HkfnM?si=Vs858jsbKKGRgJT7)**
+
 📌 **[Watch: YOLO Algorithm](https://youtu.be/9s_FpMpdYW8?si=_FdBVEN0dYBIeA7-)**
+
 📌 **[Watch: How YOLO Object Detection Works](https://youtu.be/svn9-xV7wjk?si=sJvwS9mRCqsKH60H)**
 
 ---
