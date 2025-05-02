@@ -5,12 +5,19 @@
 In this session, we will cover:
 
 ✅ **Limitations of RNNs** – Why traditional sequence models fall short.
+
 ✅ **Self-Attention & Transformers** – The key innovation behind modern deep learning.
+
 ✅ **Understanding BERT** – Bidirectional contextual learning for language understanding.
+
 ✅ **DistilBERT for Emotion Classification** – Build and fine-tune a lightweight Transformer.
+
 ✅ **Basics of GPT Models** – Learn how Generative Transformers work and generate text.
+
 ✅ **Fine-Tuning Pretrained Transformers** – Adapt powerful models to custom tasks.
+
 ✅ **Prompt Engineering** – Design inputs that steer LLM responses effectively.
+
 ✅ **LLM Deployment & QA App** – Explore the QueryMate demo and real-world applications.
 
 ---
