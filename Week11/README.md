@@ -71,9 +71,13 @@ Click the links below to **watch the YouTube lectures for Week 11**:
 ## ✅ Next Steps
 
 📌 **Run the notebook and fine-tune DistilBERT for emotion classification.**
+
 📌 **Explore how Transformers outperform RNNs on sequence modeling.**
+
 📌 **Experiment with prompt design to optimize LLM outputs.**
+
 📌 **Try modifying hyperparameters for fine-tuning BERT-based models.**
+
 📌 **Deploy a simple QA app using an LLM and test real-world queries.**
 
 🚀 Happy Learning! 😊🔥
