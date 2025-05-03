@@ -37,6 +37,7 @@ Click the links below to **watch the YouTube lectures for Week 12**:
 ### 🔹 Introduction to Reinforcement Learning
 
 📌 **[Watch: Reinforcement Learning](https://youtu.be/T_X4XFwKX8k?si=HVw0Cm5DoHeZ4tPL)**
+
 📌 **[Watch: Reinforcement Learning - Crash Course](https://youtu.be/nIgIv4IfJ6s?si=5bC_dfc_HP9gdslh)**
 
 ### 🔹 Markov Decision Processes (MDPs)
