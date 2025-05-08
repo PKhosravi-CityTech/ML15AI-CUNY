@@ -83,7 +83,7 @@ Want to contribute? We welcome **bug fixes, notebook improvements, dataset sugge
 | 🎮 **Week 12** | 🕹 Reinforcement Learning | Markov Decision Processes, Q-Learning, Policy Gradients, OpenAI Gym |
 | 🌐 **Week 13** | 🔍 Explainable AI & Ethics | SHAP, LIME, Grad-CAM, Model Bias, Fairness, Accountability, AI Policy |
 | 🧠 **Week 14** | 🤝 Multimodal & Foundation Models | CLIP, DALL·E, Multimodal Transformers, Cross-modal Representations |
-| 🎓 **Week 15** | 📚 Research Trends & Capstone Projects | Student Presentations, Recent Advances (AutoML, Federated Learning, Causal Inference, Continual Learning), VC Theory & Generalization Bounds
+| 🎓 **Week 15** | 📚 Research Trends & Capstone Projects | Recent Advances (AutoML, Federated Learning, Causal Inference, Continual Learning), VC Theory & Generalization Bounds
 
 
 
