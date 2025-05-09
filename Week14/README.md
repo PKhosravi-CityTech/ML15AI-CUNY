@@ -37,15 +37,21 @@ Click the button below to run the notebook interactively in **Google Colab**:
 ### 🔹 Multimodal Learning & Foundation Models
 
 📌 **[How do Multimodal AI models work](https://youtu.be/WkoytlA3MoQ?si=JDfaMQFW2_SkpFX-)**
+
 📌 **[Foundation Model](https://youtu.be/QPQy7jUpmyA?si=qUIv0blVWAlwLlC8)**
+
 📌 **[AI Foundation Model](https://youtu.be/pePAAGfh-IU?si=986SnTq7BS1ki6uK)**
+
 📌 **[Multimodal AI models](https://youtu.be/WkoytlA3MoQ?si=fWgxC12vMehyZXiD)**
+
 📌 **[Multimodality and Data Fusion Techniques](https://youtu.be/YpNxwG14Vxs?si=4f7YZO7VcABHFF3Z)**
 
 ### 🔹 CLIP & Transformers
 
 📌 **[OpenAI CLIP model](https://youtu.be/jXD6O93Ptks?si=xCY7Web12aiSZo7E)**
+
 📌 **[Meta-Transformer](https://youtu.be/V8L8xbsTyls?si=SXEvx1nGgHnBVN2q)**
+
 📌 **[Transformer combining Vision and Language](https://youtu.be/dd7nE4nbxN0?si=7_7b7fUQIH_viWP4)**
 
 ---
