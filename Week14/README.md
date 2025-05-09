@@ -42,8 +42,6 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 📌 **[AI Foundation Model](https://youtu.be/pePAAGfh-IU?si=986SnTq7BS1ki6uK)**
 
-📌 **[Multimodal AI models](https://youtu.be/WkoytlA3MoQ?si=fWgxC12vMehyZXiD)**
-
 📌 **[Multimodality and Data Fusion Techniques](https://youtu.be/YpNxwG14Vxs?si=4f7YZO7VcABHFF3Z)**
 
 ### 🔹 CLIP & Transformers
