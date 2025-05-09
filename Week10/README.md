@@ -17,8 +17,8 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week10/Week10.ipynb)  
 
-✅ **Interactive coding — no installation needed.**  
-✅ **Build RNNs, GRUs, and Seq2Seq models directly in the notebook.**
+✅ **No local setup needed – run everything in the cloud.**  
+✅ **All datasets and libraries are preloaded in the notebook.**  
 
 ---
 
