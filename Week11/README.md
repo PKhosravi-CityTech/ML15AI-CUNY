@@ -28,9 +28,8 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week11/Week11.ipynb)
 
-✅ **Interactive coding — no installation needed.**
-
-✅ **Fine-tune BERT-based models and deploy Transformer-powered apps.**
+✅ **No local setup needed – run everything in the cloud.**  
+✅ **All datasets and libraries are preloaded in the notebook.**  
 
 ---
 
