@@ -24,9 +24,8 @@ Click the button below to run the notebook interactively in **Google Colab**:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PKhosravi-CityTech/ML15AI-CUNY/blob/main/Week13/Week13.ipynb)
 
-✅ **Interactive coding — no installation needed.**
-
-✅ **Try SHAP, LIME, and explore fairness analysis tools.**
+✅ **No local setup needed – run everything in the cloud.**  
+✅ **All datasets and libraries are preloaded in the notebook.**  
 
 ---
 
